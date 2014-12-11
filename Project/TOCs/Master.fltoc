@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -20,6 +20,6 @@
       Link="/Content/Products/Product A/Article2.htm" />
     <TocEntry
       Title="[%=MyVariables.ProductA%] Article 3"
-      Link="/Content/Products/Product A/Article3.htm" />
+      Link="/Content/NewFolder/Article3.htm" />
   </TocEntry>
 </CatapultToc>
