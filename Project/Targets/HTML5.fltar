@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target foo"
-  Type="WebHelp2"
+  Type="EclipseHelp"
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp"
-  Skin="/Project/Skins/WebsiteSkin.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   EnableFeedbackService="false"
   LiveHelpServer=""
