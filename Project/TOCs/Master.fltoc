@@ -20,6 +20,6 @@
       Link="/Content/Products/Product A/NewFolder/Article2.htm" />
     <TocEntry
       Title="[%=MyVariables.ProductA%] Article 3"
-      Link="/Content/NewFolder/Article3.htm" />
+      Link="/Content/NewFolder/Art3.htm" />
   </TocEntry>
 </CatapultToc>
